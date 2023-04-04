@@ -342,7 +342,7 @@
                                             </li>
                                             <li class="cbp-l-icon">
                                                 <a
-                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249011?lang=id&type=general">
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249048?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -359,13 +359,14 @@
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
                                                 <a class="cbp-lightbox"
-                                                    href="https://www.youtube.com/watch?v=3wbvpOIIBQA"
-                                                    data-title="Dashboard<br>by Visual">
+                                                    href="img/spek/Anesthesia Machine AN350 - Spek.jpg"
+                                                    data-title="Anesthesia Machine AN350">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/anesthesia350.png" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249060?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -387,7 +388,8 @@
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="#">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245664?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -409,7 +411,8 @@
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="#">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245691?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -431,7 +434,8 @@
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="#">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245716?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -443,22 +447,23 @@
                             </li>
                             <li class="cbp-item effect effects electro">
                                 <div class="img">
-                                    <img src="img/portfolio/electro.png" class="img-responsive" alt="" />
+                                    <img src="img/portfolio/electro1.png" class="img-responsive" alt="" />
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/electro.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/electro300.jpeg" class="cbp-lightbox"
+                                                    data-title="Electro Sugery NSR ES300">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245574?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-caption-title">Electro Sugery</li>
-                                            <li class="cbp-l-caption-desc">Type 1</li>
+                                            <li class="cbp-l-caption-desc">NSR ES300</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -469,18 +474,19 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/electro.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/electro400.jpeg" class="cbp-lightbox"
+                                                    data-title="Electro Sugery NSR ES400">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245622?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-caption-title">Electro Sugery</li>
-                                            <li class="cbp-l-caption-desc">Type 2</li>
+                                            <li class="cbp-l-caption-desc">NSR ES400</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -492,12 +498,13 @@
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
                                                 <a href="img/portfolio/fetalfm12.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                    data-title="Fetal Monitor FM-12">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249235?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -513,13 +520,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/fetalfm15.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/fm15.jpeg" class="cbp-lightbox"
+                                                    data-title="Fetal Monitor FM-15">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245821?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -535,13 +543,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/fetalfm18.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/fm18.jpeg" class="cbp-lightbox"
+                                                    data-title="Fetal Monitor FM-18">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245836?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -557,13 +566,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/lamp1.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/lamp1.jpeg" class="cbp-lightbox"
+                                                    data-title="Operating Lamp Sinar 5050">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249085?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -579,13 +589,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/lamp2.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/lamp2.jpeg" class="cbp-lightbox"
+                                                    data-title="Operating Lamp Sinar 7050">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249113?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -601,13 +612,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/lamp3.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/lamp3.jpeg" class="cbp-lightbox"
+                                                    data-title="Operating Lamp Sinar 7070">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249131?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -623,13 +635,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/meja.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/Enesers Operating Table OT 6500 - Spek.jpg"
+                                                    class="cbp-lightbox" data-title="Operating Table OT 6500">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249156?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -645,13 +658,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/pump1.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/3l.jpeg" class="cbp-lightbox"
+                                                    data-title="Suction Pump SC 3L">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1248973?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -667,13 +681,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/pump2.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/3000.jpeg" class="cbp-lightbox"
+                                                    data-title="Suction Pump SC 3000">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1248994?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -689,13 +704,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/patient1.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/Patient Monitor NSR PM1000 - Spek.jpg"
+                                                    class="cbp-lightbox" data-title="Patient Monitor PM1000">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245402?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -711,13 +727,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/patient2.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/Patient Monitor NSR PM1200 - Spek.png"
+                                                    class="cbp-lightbox" data-title="Patient Monitor PM1200">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245392?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -733,13 +750,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/dopler.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/dopler.jpeg" class="cbp-lightbox"
+                                                    data-title="Ultrasonic Pocket Doppler FD1">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1245860?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -755,13 +773,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/oxygen1.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/oxygen1.jpeg" class="cbp-lightbox"
+                                                    data-title="Oxygen Generator G60">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249199?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -777,13 +796,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/oxygen2.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/oxygen2.jpeg" class="cbp-lightbox"
+                                                    data-title="Oxygen Generator G120">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249194?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -799,13 +819,14 @@
                                     <div class="overlay">
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
-                                                <a href="img/portfolio/oxygen3.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                <a href="img/spek/oxygen3.jpeg" class="cbp-lightbox"
+                                                    data-title="Oxygen Generator G180">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249170?lang=id&type=general">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -822,12 +843,12 @@
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
                                                 <a href="img/portfolio/usg1.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                    data-title="USG Makna & D MD 12">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a href="#">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -844,12 +865,12 @@
                                         <ul class="expand">
                                             <li class="cbp-l-icon">
                                                 <a href="img/portfolio/usg2.png" class="cbp-lightbox"
-                                                    data-title="Dashboard<br>by Visual">
+                                                    data-title="USG Makna & D MD 12A">
                                                     <i class="icon-magnifier"></i>
                                                 </a>
                                             </li>
                                             <li class="cbp-l-icon">
-                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                <a href="#">
                                                     <i class="icon-link"></i>
                                                 </a>
                                             </li>
@@ -1020,53 +1041,18 @@
                             </p>
                             <ul class="social-icons subheading">
                                 <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-googleplus"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-instagram-outline"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-pinterest"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-skype"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-linkedin"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-dropbox"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="icon ion-social-vimeo"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
+                                    <a href="https://www.youtube.com/@enesersmitraberkah2041">
                                         <i class="icon ion-social-youtube"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <i href="https://www.facebook.com/enesers.mitraberkah/">
+                                        <i class="icon ion-social-facebook"></i>
+                                        </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/enesersmitraberkah/?hl=en">
+                                        <i class="icon ion-social-instagram-outline"></i>
                                     </a>
                                 </li>
                             </ul>
