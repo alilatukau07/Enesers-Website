@@ -153,6 +153,12 @@ p {
 .no-padding {
     padding: 0;
 }
+.section-title-judul {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: black;
+}
 .section-title {
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -162,7 +168,7 @@ p {
     font-size: 14px;
     line-height: 20px;
     font-weight: 400;
-    margin-bottom: 42px;
+    margin-bottom: 20px;
 }
 .subheading:after {
     position: relative;
@@ -1378,8 +1384,9 @@ nav {
     float: left;
 }
 .feature-info {
-    padding-left: 55px;
-    padding-top: 5px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .feature-description {
     line-height: 23px;
@@ -1399,12 +1406,14 @@ nav {
 }
 .about-text {
     margin-top: 20px;
-    padding-right: 60px;
+    margin-left: -5px;
+    /* padding-right: 50px; */
 }
 #about p {
     line-height: 1.8;
 }
 .video-container {
+    /* margin-left: 70px; */
     position: relative;
     padding-bottom: 51%;
     padding-top: 30px;
@@ -1665,7 +1674,7 @@ nav {
 
 /*----- Quote -----*/
 #quote {
-    padding-top: 100px;
+    padding-top: 30px;
     padding-bottom: 80px;
 }
 #quote #quote-slider {
@@ -1680,7 +1689,7 @@ nav {
     text-transform: uppercase;
     letter-spacing: 1px;
     margin: 0;
-    color: #fff;
+    color: black;
     border-left: none;
     text-align: center;
 }
@@ -1740,6 +1749,7 @@ blockquote strong {
 #portfolio {
     padding-top: 60px;
     padding-bottom: 100px;
+    margin-top: 40px;
 }
 .cbp-l-filters-alignRight .cbp-filter-item,
 .cbp-l-filters-alignCenter .cbp-filter-item {
@@ -2265,7 +2275,6 @@ blockquote strong {
 /*----- Clients -----*/
 #clients {
     padding-top: 75px;
-    padding-bottom: 85px;
 }
 .client {
     padding: 8px;
@@ -2372,7 +2381,7 @@ blockquote strong {
 /*----- Contact Form -----*/
 
 #contact {
-    padding-top: 90px;
+    padding-top: 30px;
     padding-bottom: 80px;
 }
 #contact .section-title {
@@ -3937,8 +3946,8 @@ textarea {
     .whatsapp_float {
         width: 40px;
         height: 40px;
-        bottom: 40px;
-        right: 10px;
+        bottom: 60px;
+        right: 20px;
         font-size: 22px;
     }
 }

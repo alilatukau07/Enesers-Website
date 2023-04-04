@@ -62,8 +62,8 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand to-top" rel="home" href="#">
-                        <img src="img/assets/coba.png" alt="Enesers" class="logo-big">
-                        <img src="img/assets/coba.png" alt="Enesers" class="logo-small">
+                        <img src="img/assets/enesers.png" alt="Enesers" class="logo-big">
+                        <img src="img/assets/enesers.png" alt="Enesers" class="logo-small">
                     </a>
                 </div>
 
@@ -76,23 +76,33 @@
                             </a>
                         </li>
                         <li class="to-section">
-                            <a href="#about">
+                            <a href="#features">
                                 About Us
                             </a>
                         </li>
                         <li class="to-section">
-                            <a href="#team">
-                                Team
+                            <a href="#quote">
+                                Visi & Misi
                             </a>
                         </li>
                         <li class="to-section">
                             <a href="#portfolio">
-                                Products
+                                Our Product
+                            </a>
+                        </li>
+                        <li class="to-section">
+                            <a href="#services">
+                                Service & Maintenance
+                            </a>
+                        </li>
+                        <li class="to-section">
+                            <a href="#clients">
+                                Mitra Group
                             </a>
                         </li>
                         <li class="to-section">
                             <a href="#contact">
-                                Contact
+                                Contact Us
                             </a>
                         </li>
                     </ul>
@@ -113,24 +123,24 @@
                         <!-- SLIDE 1 -->
                         <li data-transition="fade" data-slotamount="7" data-masterspeed="2000"
                             data-thumb="img/backgrounds/enesers.jpg" data-delay="10000" data-saveperformance="on"
-                            data-title="We Are Visual">
+                            data-title="">
                             <img src="img/backgrounds/enesers.jpg" alt="slidebg1" data-bgposition="center top"
                                 data-bgfit="cover" data-bgrepeat="no-repeat">
                         </li>
 
                         <!-- SLIDE 2 -->
                         <li data-transition="fade" data-slotamount="7" data-masterspeed="2000"
-                            data-thumb="img/backgrounds/enesers4.jpg" data-delay="10000" data-saveperformance="on"
-                            data-title="Digital Agency">
-                            <img src="img/backgrounds/enesers4.jpg" alt="slidebg1" data-bgposition="center top"
+                            data-thumb="img/backgrounds/enesers.jpg" data-delay="10000" data-saveperformance="on"
+                            data-title="">
+                            <img src="img/backgrounds/enesers.jpg" alt="slidebg1" data-bgposition="center top"
                                 data-bgfit="cover" data-bgrepeat="no-repeat">
                         </li>
 
                         <!-- SLIDE 3 -->
                         <li data-transition="fade" data-slotamount="7" data-masterspeed="2000"
-                            data-thumb="img/backgrounds/enesers3.jpg" data-delay="10000" data-saveperformance="on"
-                            data-title="Creative Coders">
-                            <img src="img/backgrounds/enesers3.jpg" alt="slidebg1" data-bgposition="center top"
+                            data-thumb="img/backgrounds/enesers.jpg" data-delay="10000" data-saveperformance="on"
+                            data-title="">
+                            <img src="img/backgrounds/enesers.jpg" alt="slidebg1" data-bgposition="center top"
                                 data-bgfit="cover" data-bgrepeat="no-repeat">
                         </li>
                     </ul>
@@ -150,85 +160,13 @@
     <!-- End Home Revolution Slider Parallax Section -->
 
     <div class="site-wrapper content">
-
         <!-- Start Features Section -->
         <section id="features">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="col-md-12 text-center wow fadeInUp">
                     <h3 class="section-title">About our Company</h3>
-                    <p class="subheading">We are a small<span class="highlight"> creative team</span>, trying to enrich
-                        the lives of others</p>
+                    <p class="subheading"></p>
                 </div>
-                {{-- <div class="row features-row wow fadeInUp">
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-eyeglasses size-2x highlight"></i>
-                            <i class="icon-eyeglasses back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Parallax Design</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-lock-open size-2x highlight"></i>
-                            <i class="icon-lock-open back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Fully Responsive</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-energy size-2x highlight"></i>
-                            <i class="icon-energy back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Fast & Smooth</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row wow fadeInUp">
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-settings size-2x highlight"></i>
-                            <i class="icon-settings back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Seo Optimized </h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-book-open size-2x highlight"></i>
-                            <i class="icon-book-open back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Clean Code</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-support size-2x highlight"></i>
-                            <i class="icon-support back-icon"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Free 24/7 Support</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                </div> --}}
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 text-justify about-text">
@@ -244,9 +182,6 @@
                             <p class="wow fadeInUp">PT. Mitra Inti Medika (MIM),</p>
                             <p class="wow fadeInUp">PT. Mitra Tera Akurasi (MTA), and</p>
                             <p class="wow fadeInUp">PT. Miramed Jaya Mandiri</p>
-                            {{-- <p class="wow fadeInUp">
-                                <button type="button" class="btn btn-primary btn-md">Get in Touch</button>
-                            </p> --}}
                         </div>
                         <div class="col-md-6 wow fadeInUp about-text">
                             <div class="video-container">
@@ -255,28 +190,6 @@
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                     allowfullscreen></iframe>
                             </div>
-                            {{-- <h3 class="wow fadeInUp">Our Company Profile </h3>
-                            <div class="progress-bars">
-                                <p>Branding</p>
-                                <div class="progress" data-percent="90%">
-                                    <div class="progress-bar">
-                                        <span class="progress-bar-tooltip">90%</span>
-                                    </div>
-                                </div>
-                                <p>User Experiance</p>
-                                <div class="progress" data-percent="80%">
-                                    <div class="progress-bar">
-                                        <span class="progress-bar-tooltip">80%</span>
-                                    </div>
-                                </div>
-                                <p>Web Design</p>
-                                <div class="progress" data-percent="70%">
-                                    <div class="progress-bar">
-                                        <span class="progress-bar-tooltip">70%</span>
-                                    </div>
-                                </div>
-                            </div> --}}
-
                         </div>
                     </div>
                 </div>
@@ -284,226 +197,32 @@
         </section>
         <!--End Features Section -->
 
-        <!-- Start Fun Facts Section -->
-        <section id="fun-facts" class="parallax-section-5">
-            <div class="container">
-                <div class="col-md-12 text-center white wow fadeInUp">
-                    <h3 class="section-title">Some interesting facts about us</h3>
-                    <p class="subheading">Interdisciplinary team with <span class="highlight">big ideas</span> and
-                        challenges.</p>
-                </div>
-                <div class="counter-row row text-center wow fadeInUp">
-                    <div class="col-md-3 col-sm-6 fact-container">
-                        <div class="fact">
-                            <span class="counter highlight">840</span>
-                            <h4>Happy Customers</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 fact-container">
-                        <div class="fact">
-                            <span class="counter highlight">385</span>
-                            <h4>Finished Projects</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 fact-container">
-                        <div class="fact">
-                            <h2 class="counter highlight">65892</h2>
-                            <h4>Lines of codes written</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 fact-container">
-                        <div class="fact">
-                            <span class="counter highlight">25</span>
-                            <h4>Winning Awards</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Fun Facts Section -->
-
-        <!-- Start Team Section -->
-        <section id="team">
-            <div class="container">
-                <div class="col-md-12 text-center wow fadeInUp">
-                    <h3 class="section-title">Meet the Crew.</h3>
-                    <p class="subheading">Interdisciplinary team with <span class="highlight">big ideas</span> and
-                        challenges.</p>
-                </div>
-                <div class="row">
-                    <div class="col-md-3 col-sm-3 team-member">
-                        <div class="effect effects wow fadeInUp">
-                            <div class="img">
-                                <img src="img/team/team-1.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class=" icon-envelope-open"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <a class="close-overlay hidden">
-                                        x
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-info wow fadeInUp">
-                            <h4>John Visual</h4>
-                            <h5 class="highlight">CEO / Founder</h5>
-                            <p>Vivamus motestues phasellus enim sed orci eu pharetra. </p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-3 team-member">
-                        <div class="effect effects wow fadeInUp">
-                            <div class="img">
-                                <img src="img/team/team-2.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class=" icon-envelope-open"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <a class="close-overlay hidden">
-                                        x
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-info wow fadeInUp">
-                            <h4>John Visual</h4>
-                            <h5 class="highlight">CEO / Founder</h5>
-                            <p>Vivamus motestues phasellus enim sed orci eu pharetra.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-3 team-member">
-                        <div class="effect effects wow fadeInUp">
-                            <div class="img">
-                                <img src="img/team/team-3.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class=" icon-envelope-open"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <a class="close-overlay hidden">
-                                        x
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-info wow fadeInUp">
-                            <h4>Jane Wunder</h4>
-                            <h5 class="highlight">PR Manager</h5>
-                            <p>Vivamus motestues phasellus enim sed orci eu pharetra.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-3 team-member">
-                        <div class="effect effects wow fadeInUp">
-                            <div class="img">
-                                <img src="img/team/team-4.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class="icon-social-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="social-icon">
-                                            <a href="#" onClick="return false;">
-                                                <i class=" icon-envelope-open"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <a class="close-overlay hidden">
-                                        x
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="member-info wow fadeInUp">
-                            <h4>Ali Latukau</h4>
-                            <h5 class="highlight">Web Developer</h5>
-                            <p>Vivamus motestues phasellus enim sed orci eu pharetra.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Team Section -->
-
         <!-- Start Quote Section -->
-        <section id="quote" class="parallax-section-6">
+        <section id="quote" class="parallax-section-9">
             <div class="container">
                 <div class="row wow fadeInUp">
                     <div class="col-lg-12 wow fadeInUp" style="z-index:3">
                         <div id="quote-slider" class="owl-carousel">
                             <div>
                                 <blockquote>
+                                    <h3 class="section-title-judul">Visi</h3>
+                                    <p class="subheading"></p>
+                                    <i class="icon-left ion-quote ion-2x highlight"></i>
+                                    <span> To become a classy local company for national medical devices to support the
+                                        independence of local products, and to
+                                        absorb the needs of the domestic market. </span>
+                                    <i class="icon-right ion-quote ion-2x highlight"></i>
+                                </blockquote>
+                            </div>
+                            <div>
+                                <blockquote>
+                                    <h3 class="section-title-judul">Misi</h3>
+                                    <p class="subheading"></p>
                                     <i class="icon-left ion-quote ion-2x highlight"></i>
                                     <span> The Difference between ordinary and extraordinary<br>
                                         is just that little extra! </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
+                                    <i class="icon-right ion-quote ion-2x highlight"></i> <br>
                                 </blockquote>
-                                <h4 class="quote-author highlight">Visual Team</h4>
-                            </div>
-                            <div>
-                                <blockquote>
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span> A Perfect Design is made with Passion, Dedication,<br>
-                                        and a lots of Coffee! </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </blockquote>
-                                <h4 class="quote-author highlight">Visual Team</h4>
-                            </div>
-                            <div>
-                                <blockquote>
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span> What separates design from art is that design is<br>
-                                        meant to be... functional. </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </blockquote>
-                                <h4 class="quote-author highlight">Visual Team</h4>
                             </div>
                         </div>
                     </div>
@@ -517,303 +236,631 @@
             <div class="separator"></div>
             <div class="container-fluid">
                 <div class="col-md-12 text-center">
-                    <h3 class="section-title wow fadeInUp">Greatest Works.</h3>
-                    <p class="subheading wow fadeInUp">Creating products and services that <span
-                            class="highlight">transform brands</span>.</p>
+                    <h3 class="section-title wow fadeInUp">Our Product</h3>
+                    <p class="subheading wow fadeInUp"></p>
+                    {{-- <p class="subheading wow fadeInUp">Creating products and services that <span
+                            class="highlight">transform brands</span>.</p> --}}
                 </div>
-                <div id="filters-container-fullwidth" class="cbp-l-filters-alignCenter wow fadeInUp">
-                    <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All
-                        <div class="cbp-filter-counter"></div>
+                <div class="container">
+                    <div id="filters-container-fullwidth" class="cbp-l-filters-alignCenter wow fadeInUp">
+                        <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".anesthesia" class="cbp-filter-item">Anesthesia
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".baby" class="cbp-filter-item">Baby Incubator
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".electro" class="cbp-filter-item">Electro Surgery
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".fetal" class="cbp-filter-item">Fetal Monitor
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".lamp" class="cbp-filter-item">Operating Lamp
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".meja" class="cbp-filter-item">Operating Table
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".pump" class="cbp-filter-item">Suction Pump
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".patient" class="cbp-filter-item">Patient Monitor
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".dopler" class="cbp-filter-item">Ultrasonic Pocket Dopler
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".oxygen" class="cbp-filter-item">Oxygen Generator
+                            <div class="cbp-filter-counter"></div>
+                        </div>
+                        <div data-filter=".usg" class="cbp-filter-item">USG Makna & D
+                            <div class="cbp-filter-counter"></div>
+                        </div>
                     </div>
-                    <div data-filter=".identity" class="cbp-filter-item">Identity
-                        <div class="cbp-filter-counter"></div>
+                    <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
+                        <ul>
+                            <li class="cbp-item effect effects anesthesia">
+                                <div class="img">
+                                    <img src="img/portfolio/anesthesia.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/spek/Anesthesia Machine A8500 - Spek.jpg"
+                                                    class="cbp-lightbox" data-title="Anesthesia Machine A8500">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249209?lang=id&type=general">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Anesthesia Machine</li>
+                                            <li class="cbp-l-caption-desc">A8500</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects anesthesia">
+                                <div class="img">
+                                    <img src="img/portfolio/anesthesia.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/spek/Spesifikasi Enesers Anesthesia Machine (A8500GS).jpg"
+                                                    class="cbp-lightbox" data-title="Anesthesia Machine A8500 GS">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249011?lang=id&type=general">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Anesthesia Machine</li>
+                                            <li class="cbp-l-caption-desc">A8500 GS</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects anesthesia">
+                                <div class="img">
+                                    <img src="img/portfolio/anesthesia.jpg" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a class="cbp-lightbox"
+                                                    href="img/spek/Spesifikasi Enesers Anesthesia Machine (A8500 TC).jpg"
+                                                    data-title="Anesthesia Machine A8500 GS">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a
+                                                    href="https://e-katalog.lkpp.go.id/katalog/produk/detail/1249011?lang=id&type=general">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Anesthesia Machine</li>
+                                            <li class="cbp-l-caption-desc">A8500 TC</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects anesthesia">
+                                <div class="img">
+                                    <img src="img/portfolio/anesthesia350.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a class="cbp-lightbox"
+                                                    href="https://www.youtube.com/watch?v=3wbvpOIIBQA"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/anesthesia350.png" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Anesthesia Machine</li>
+                                            <li class="cbp-l-caption-desc">AN 350</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects baby">
+                                <div class="img">
+                                    <img src="img/portfolio/babyb1001.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/spek/b1001.jpeg" class="cbp-lightbox"
+                                                    data-title="Baby Incubator B1001">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Baby Incubator</li>
+                                            <li class="cbp-l-caption-desc">B1001</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects baby">
+                                <div class="img">
+                                    <img src="img/portfolio/babyb1002.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/spek/b1002.jpeg" class="cbp-lightbox"
+                                                    data-title="Baby Incubator B1002">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Baby Incubator</li>
+                                            <li class="cbp-l-caption-desc">B1002</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects baby">
+                                <div class="img">
+                                    <img src="img/portfolio/babyb1003.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/spek/b1003.jpeg" class="cbp-lightbox"
+                                                    data-title="Baby Incubator B1003">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="#">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Baby Incubator</li>
+                                            <li class="cbp-l-caption-desc">B1003</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects electro">
+                                <div class="img">
+                                    <img src="img/portfolio/electro.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/electro.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Electro Sugery</li>
+                                            <li class="cbp-l-caption-desc">Type 1</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects electro">
+                                <div class="img">
+                                    <img src="img/portfolio/electro.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/electro.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Electro Sugery</li>
+                                            <li class="cbp-l-caption-desc">Type 2</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects fetal">
+                                <div class="img">
+                                    <img src="img/portfolio/fetalfm12.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/fetalfm12.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Fetal Monitor</li>
+                                            <li class="cbp-l-caption-desc">FM-12</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects fetal">
+                                <div class="img">
+                                    <img src="img/portfolio/fetalfm15.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/fetalfm15.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Fetal Monitor</li>
+                                            <li class="cbp-l-caption-desc">FM-15</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects fetal">
+                                <div class="img">
+                                    <img src="img/portfolio/fetalfm18.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/fetalfm18.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Fetal Monitor</li>
+                                            <li class="cbp-l-caption-desc">FM-18</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects lamp">
+                                <div class="img">
+                                    <img src="img/portfolio/lamp1.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/lamp1.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Operating Lamp</li>
+                                            <li class="cbp-l-caption-desc">Sinar 5050</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects lamp">
+                                <div class="img">
+                                    <img src="img/portfolio/lamp2.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/lamp2.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Operating Lamp</li>
+                                            <li class="cbp-l-caption-desc">Sinar 7050</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects lamp">
+                                <div class="img">
+                                    <img src="img/portfolio/lamp3.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/lamp3.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Operating Lamp</li>
+                                            <li class="cbp-l-caption-desc">Sinar 7070</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects meja">
+                                <div class="img">
+                                    <img src="img/portfolio/meja.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/meja.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Operating Table</li>
+                                            <li class="cbp-l-caption-desc">OT 6500</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects pump">
+                                <div class="img">
+                                    <img src="img/portfolio/pump1.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/pump1.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Suction Pump</li>
+                                            <li class="cbp-l-caption-desc">SC 3L</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects pump">
+                                <div class="img">
+                                    <img src="img/portfolio/pump2.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/pump2.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Suction Pump</li>
+                                            <li class="cbp-l-caption-desc">SC 3000</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects patient">
+                                <div class="img">
+                                    <img src="img/portfolio/patient1.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/patient1.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Patient Monitor</li>
+                                            <li class="cbp-l-caption-desc">PM1000</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects patient">
+                                <div class="img">
+                                    <img src="img/portfolio/patient2.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/patient2.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Patient Monitor</li>
+                                            <li class="cbp-l-caption-desc">PM1200</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects dopler">
+                                <div class="img">
+                                    <img src="img/portfolio/dopler.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/dopler.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Ultrasonic Pocket Doppler</li>
+                                            <li class="cbp-l-caption-desc">FD1</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects oxygen">
+                                <div class="img">
+                                    <img src="img/portfolio/oxygen1.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/oxygen1.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Oxygen Generator</li>
+                                            <li class="cbp-l-caption-desc">G60</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects oxygen">
+                                <div class="img">
+                                    <img src="img/portfolio/oxygen2.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/oxygen2.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Oxygen Generator</li>
+                                            <li class="cbp-l-caption-desc">G120</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects oxygen">
+                                <div class="img">
+                                    <img src="img/portfolio/oxygen3.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/oxygen3.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">Oxygen Generator</li>
+                                            <li class="cbp-l-caption-desc">G180</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects usg">
+                                <div class="img">
+                                    <img src="img/portfolio/usg1.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/usg1.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">USG Makna & D</li>
+                                            <li class="cbp-l-caption-desc">MD 12</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="cbp-item effect effects usg">
+                                <div class="img">
+                                    <img src="img/portfolio/usg2.png" class="img-responsive" alt="" />
+                                    <div class="overlay">
+                                        <ul class="expand">
+                                            <li class="cbp-l-icon">
+                                                <a href="img/portfolio/usg2.png" class="cbp-lightbox"
+                                                    data-title="Dashboard<br>by Visual">
+                                                    <i class="icon-magnifier"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-icon">
+                                                <a href="projects/project10.html" class="cbp-singlePage">
+                                                    <i class="icon-link"></i>
+                                                </a>
+                                            </li>
+                                            <li class="cbp-l-caption-title">USG Makna & D</li>
+                                            <li class="cbp-l-caption-desc">MD 12A</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
-                    <div data-filter=".web-design" class="cbp-filter-item">Web Design
-                        <div class="cbp-filter-counter"></div>
-                    </div>
-                    <div data-filter=".graphic" class="cbp-filter-item">Graphic
-                        <div class="cbp-filter-counter"></div>
-                    </div>
-                    <div data-filter=".logo" class="cbp-filter-item">Logo
-                        <div class="cbp-filter-counter"></div>
-                    </div>
-                    <div data-filter=".motion" class="cbp-filter-item">Motion
-                        <div class="cbp-filter-counter"></div>
-                    </div>
-                </div>
-                <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
-                    <ul>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project1.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Future Trend</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects identity logo">
-                            <div class="img">
-                                <img src="img/portfolio/2.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project2.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Pro Bicycle</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects web-design">
-                            <div class="img">
-                                <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project3.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Door Cover</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects motion identity">
-                            <div class="img">
-                                <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a class="cbp-lightbox" href="https://www.youtube.com/watch?v=3wbvpOIIBQA"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project4.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Pro Close-up</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects identity">
-                            <div class="img">
-                                <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project5.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Bohemian Coding</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects motion logo">
-                            <div class="img">
-                                <img src="img/portfolio/6.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project6.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Poster Wall</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects web-design">
-                            <div class="img">
-                                <img src="img/portfolio/7.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/7.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project7.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Red Bridge</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects web-design">
-                            <div class="img">
-                                <img src="img/portfolio/8.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/8.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project8.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">V8 M52 Engine</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects identity motion">
-                            <div class="img">
-                                <img src="img/portfolio/9.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="http://vimeo.com/16465813" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project9.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Ergonomic Pad</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects web-design graphic">
-                            <div class="img">
-                                <img src="img/portfolio/10.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/10.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project10.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Cooling Tower</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects graphic logo">
-                            <div class="img">
-                                <img src="img/portfolio/11.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/11.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project11.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Still Motion</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="cbp-item effect effects graphic logo">
-                            <div class="img">
-                                <img src="img/portfolio/12.jpg" class="img-responsive" alt="" />
-                                <div class="overlay">
-                                    <ul class="expand">
-                                        <li class="cbp-l-icon">
-                                            <a href="img/portfolio/fullsize/12.jpg" class="cbp-lightbox"
-                                                data-title="Dashboard<br>by Visual">
-                                                <i class="icon-magnifier"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-icon">
-                                            <a href="projects/project12.html" class="cbp-singlePage">
-                                                <i class="icon-link"></i>
-                                            </a>
-                                        </li>
-                                        <li class="cbp-l-caption-title">Print Design</li>
-                                        <li class="cbp-l-caption-desc">by Visual Design</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="cbp-l-loadMore-button">
-                    <a href="projects/loadMore.html" class="cbp-l-loadMore-button-link wow fadeInUp">
-                        SHOW ME MORE
-                    </a>
-                    <!-- Portfolio AJAX load more button will be functional only on your server. Upload to your server when testing. -->
                 </div>
             </div>
         </section>
@@ -823,73 +870,55 @@
         <section id="services" class="parallax-section-9">
             <div class="container">
                 <div class="col-md-12 text-center">
-                    <h3 class="section-title wow fadeInUp">What we do.</h3>
-                    <p class="subheading wow fadeInUp">We use <span class="highlight">our expertise</span> to extend
-                        your brand.</p>
+                    <h3 class="section-title wow fadeInUp">Service & Maintenance</h3>
+                    <p class="subheading wow fadeInUp"></p>
                 </div>
                 <div class="row features-row wow fadeInUp">
                     <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-eyeglasses size-2x highlight"></i>
-                        </div>
                         <div class="feature-info">
-                            <h4>Parallax Design</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
+                            <h4>Preventive Maintenance</h4>
+                            <p class="feature-description">Maintenance or maintenance carried out as a prevention,
+                                So
+                                that it is done before the machine damage occurs.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 white feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-lock-open size-2x highlight"></i>
-                        </div>
                         <div class="feature-info">
-                            <h4>Fully Responsive</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
+                            <h4>Breakdown Maintenance</h4>
+                            <p class="feature-description">Maintenance is carried out after the equipment is damaged
+                                which is then repaired so that it can run properly.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 white feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-energy size-2x highlight"></i>
-                        </div>
                         <div class="feature-info">
-                            <h4>Fast & Smooth</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
+                            <h4>Scheduled Maintenance</h4>
+                            <p class="feature-description">Maintenance is carried out in order to prevent damage and
+                                maintenance is carried out periodically which has been
+                                scheduled within a certain time limit.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 feature-column">
+                        <div class="feature-info">
+                            <h4>Predictive Maintenance</h4>
+                            <p class="feature-description">Preventive maintenance is before the machine is damaged.
+                                However, the difference is that this policy is based on a
+                                strategy against the machine itself.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 white feature-column">
+                        <div class="feature-info">
+                            <h4>Corrective Maintenance</h4>
+                            <p class="feature-description">Maintenance and maintenance carried out after the machine is
+                                damaged in order to correct or restore all machine
+                                activities to return to operation.</p>
                         </div>
                     </div>
                 </div>
-                <div class="row features-row wow fadeInUp">
-                    <div class="col-md-4 col-sm-12 feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-eyeglasses size-2x highlight"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Parallax Design</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 white feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-lock-open size-2x highlight"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Fully Responsive</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 white feature-column">
-                        <div class="feature-icon">
-                            <i class="icon-energy size-2x highlight"></i>
-                        </div>
-                        <div class="feature-info">
-                            <h4>Fast & Smooth</h4>
-                            <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec
-                                posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-                        </div>
-                    </div>
+                <div class="cbp-l-loadMore-button">
+                    <a href="https://enesers-simpro.com">
+                        SHOW ME MORE
+                    </a>
+                    <!-- Portfolio AJAX load more button will be functional only on your server. Upload to your server when testing. -->
                 </div>
             </div>
         </section>
@@ -899,45 +928,29 @@
         <section id="clients">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h3 class="section-title wow fadeInUp">Recent Clients.</h3>
-                        <p class="subheading wow fadeInUp">Meet our clients, some of the most well known companies.</p>
-                    </div>
-                    <div class="clients">
-                        <div id="client-slider" class="owl-carousel">
-                            <div class="item">
-                                <img src="img/clients/mta1.png" alt="" />
+                    <div class="container">
+                        <div class="col-md-12 text-center">
+                            <h3 class="section-title wow fadeInUp">Mitra Group</h3>
+                            <p class="subheading wow fadeInUp"></p>
+                        </div>
+                        <div class="clients">
+                            <div id="client-slider" class="owl-carousel">
+                                <div class="item">
+                                    <img src="img/clients/1.png" alt="" />
+                                </div>
+                                <div class="item">
+                                    <img src="img/clients/2.png" alt="" />
+                                </div>
+                                <div class="item">
+                                    <img src="img/clients/3.png" alt="" />
+                                </div>
+                                <div class="item">
+                                    <img src="img/clients/4.png" alt="" />
+                                </div>
+                                <div class="item">
+                                    <img src="img/clients/5.png" alt="" />
+                                </div>
                             </div>
-                            <div class="item">
-                                <img src="img/clients/mim.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/pci.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/rni.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/itama.png" alt="" />
-                            </div>
-                            {{-- <div class="item">
-                                <img src="img/clients/logo-6-dark.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/logo-7-dark.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/logo-8-dark.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/logo-9-dark.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/logo-10-dark.png" alt="" />
-                            </div>
-                            <div class="item">
-                                <img src="img/clients/logo-11-dark.png" alt="" />
-                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -945,139 +958,40 @@
         </section>
         <!-- End Clients Section -->
 
-        <!-- Start Call to Action 1 -->
-        {{-- <section id="call-to-action-1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h3 class="wow fadeInUp">FEEL LIKE WORKING WITH US?</h3>
-                        <p class="wow fadeInUp">Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula,
-                            mattis ni<br>
-                            viverra purus tristique. Proin commodo eu ipsum. </p>
-                        <a href="#contact" class="btn btn-primary btn-scroll">
-                            Get in Touch
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- End Call to Action 1 -->
-
-        <!-- Start Testimonials Section -->
-        {{-- <section id="testimonials" class="parallax-section-4">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h3 class="section-title white wow fadeInUp">What clients say.</h3>
-                        <p class="subheading grey wow fadeInUp">What People Say's About Us</p>
-                    </div>
-                    <div class="col-md-12 text-center wow fadeInUp">
-                        <div id="owl-testimonials" class="owl-carousel">
-                            <div>
-                                <div class="testimonial">
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span> This guys are amazing! They were so quick to respond and let me tell you...
-                                        they are all knowing!<br>
-                                        I highly recommend their themes! They are all about making their clients happy.
-                                    </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </div>
-                                <div class="testimonial-name">
-                                    <img src="img/clients/client-1.png" alt="client">
-                                    <h4 class="white">Jack Walles</h4>
-                                    <a href="#">
-                                        www.google.com
-                                    </a>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="testimonial">
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span> This one is undoubtedly the best template I ever bought! Easy to edit, nicely
-                                        coded and I highly recommend it.<br>
-                                        It's wonderful design and also very fast and excelent support. </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </div>
-                                <div class="testimonial-name">
-                                    <img src="img/clients/client-2.png" alt="client">
-                                    <h4 class="white">Jane Smith</h4>
-                                    <a href="#">
-                                        www.facebook.com
-                                    </a>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="testimonial">
-                                    <i class="icon-left ion-quote ion-2x highlight"></i>
-                                    <span> Visual is well documented and well coded, but the best of all is the friendly
-                                        and quick support behind it.<br>
-                                        Visual Design did a great and dedicated job. Thank you for this awesome theme!
-                                    </span>
-                                    <i class="icon-right ion-quote ion-2x highlight"></i>
-                                </div>
-                                <div class="testimonial-name">
-                                    <img src="img/clients/client-3.png" alt="client">
-                                    <h4 class="white">jonathan warton</h4>
-                                    <a href="#">
-                                        www.msn.com
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> --}}
-        <!-- End Testimonials Section -->
-
         <!-- Start Contact Form Section -->
         <section id="contact">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <h3 class="section-title wow fadeInUp">Contact us</h3>
-                        <p class="subheading wow fadeInUp"> Let's Work Together. </p>
+                        <p class="subheading wow fadeInUp"></p>
                     </div>
                     <div class="col-md-7 wow fadeInUp">
                         <div id="message"></div>
                         <!-- Contact Form will be functional only on your server. Upload to your server when testing. -->
-                        <form method="post" action="php/contact-form.php.htm" name="contactform" id="contactform">
+                        <form method="post" action="{{route('send.mail')}}">
+                            @csrf
                             <fieldset>
-                                <input name="name" type="text" id="name" placeholder="Name" />
-                                <input name="email" type="text" id="email" placeholder="Email" />
-                                <input name="subject" type="text" id="subject" placeholder="Subject" />
-                            </fieldset>
-                            <fieldset>
-                                <textarea name="comments" cols="40" rows="3" id="comments"
-                                    placeholder="Message"></textarea>
+                                <input name="name" type="text" id="name" placeholder="Enter your name" />
+                                <input name="email" type="text" id="email" placeholder="Enter your email" />
+                                <textarea name="message" cols="40" rows="3" id="message"
+                                    placeholder="Enter your message" style="padding: 10px"></textarea>
                             </fieldset>
                             <input type="submit" class="submit" id="submit" value="Send Message" />
                         </form>
                     </div>
                     <div class="col-md-5 wow fadeInLeft">
-                        <h4> North America : </h4>
+                        <h4> PHONE / FAX : </h4>
                         <address>
-                            795 Folsom Ave, Suite 600<br>
-                            San Francisco, CA 94107<br>
-                            <abbr title="Phone">P:</abbr> (123) 456-7890
+                            (021) 7566360
                         </address>
-                        <h4> Europe : </h4>
+                        <h4> EMAIL US : </h4>
                         <address>
-                            795 Folsom Ave, Suite 600<br>
-                            San Francisco, CA 94107<br>
-                            <abbr title="Phone">P:</abbr> (123) 456-7890
+                            info@enesers.com
                         </address>
-                        <h4> Contact Us : </h4>
+                        <h4> OUR LOCATION : </h4>
                         <address>
-                            <abbr title="Phone">
-                                <strong> Phone </strong>
-                            </abbr> : (123) 456-7890 <br>
-                            <abbr title="Fax">
-                                <strong>Fax </strong>
-                            </abbr> : (123) 456-7890 <br>
-                            <abbr title="Email">
-                                <strong>Email </strong>
-                            </abbr> : (123) 456-7890
+                            Taman Tekno BSD City Sektor XI Blok K-2 No.12, Setu, South Tangerang City, Banten 15314.
                         </address>
                     </div>
                 </div>
@@ -1172,6 +1086,8 @@
         <!-- End Back To Top -->
 
     </div>
+    @include('sweetalert::alert')
+
     <!-- End Site Wrapper -->
     <!-- jQuery -->
     <script type="text/javascript" src="{{ asset('js/plugins/jquery.min.js') }}"></script>
